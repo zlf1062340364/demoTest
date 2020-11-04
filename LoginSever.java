@@ -36,7 +36,7 @@ public class LoginSever {
 		         out.flush();
 		     
 			  }
-
+			// ·µ»Ø½£µ´ËÄ·½
 		         out.close();
 		         os.close();
 			br.close();
